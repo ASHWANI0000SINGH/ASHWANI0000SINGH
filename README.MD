@@ -23,6 +23,6 @@
 
 ### My Github Stats
 
-![ASHWANI0000SINGH github stats](https://github-readme-stats.vercel.app/api?username=lsriniwas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
+![ASHWANI0000SINGH github stats](https://github-readme-stats.vercel.app/api?username=ASHWANI0000SINGH&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
 
  </div>
